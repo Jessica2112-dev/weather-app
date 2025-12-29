@@ -13,9 +13,6 @@ async function getWeather(){
             resultDiv.innerHTML="City not found.";
             return;
         }
-        // const temp=data.main.temp;
-        // const humidity=data.main.humidity;
-        // const weather=data.weather[0].description;
         const data=await response.json();
         const icon=data.weather[0].icon;
         const iconUrl=`https://openweathermap.org/img/wn/${icon}@2x.png`;
@@ -38,3 +35,4 @@ document.getElementById("cityInput").addEventListener("keypress",function(e){
         getWeather();
     }
 });
+

@@ -20,6 +20,6 @@ It focuses on UI design and basic API integration using JavaScript.
 - Weather API
 - Google fontw for styling
 
-##Live Demo
+## Live Demo
 https://jessica2112-dev.github.io/weather-app/
 

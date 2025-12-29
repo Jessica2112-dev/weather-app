@@ -8,17 +8,17 @@ The app displays temperature, weather conditions, and icons for a better visual 
 It focuses on UI design and basic API integration using JavaScript.
 
 ## Features 
--Search for any city to get current weather information
--Displays temperature, weather condition, and weather icons
--Clean and simple UI using HTML and CSS
--Interactive functionality  with JavaScript
+- Search for any city to get current weather information
+- Displays temperature, weather condition, and weather icons
+- Clean and simple UI using HTML and CSS
+- Interactive functionality  with JavaScript
 
 ## Tech Stack 
--HTML5
--CSS3
--JavaScript 
--Weather API
--Google fontw for styling
+- HTML5
+- CSS3
+- JavaScript 
+- Weather API
+- Google fontw for styling
 
 ##Live Demo
 https://jessica2112-dev.github.io/weather-app/
